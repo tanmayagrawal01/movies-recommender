@@ -4,7 +4,7 @@ Hybrid recommender (collaborative filtering + content-based) with proper ranking
 
 ## Status
 - [x] Week 1 – EDA, data loading, leakage-free split
-- [ ] Week 2 – Baselines (global mean, popularity, damped mean, bias) + evaluation metrics
+- [x] Week 2 – Baselines (global mean, popularity, damped mean, bias) + evaluation metrics
 - [ ] Week 3 – Collaborative filtering (user/item kNN, SVD)
 - [ ] Week 4 – Content-based + hybrid + cold-start
 - [ ] Week 5 – Evaluation, tuning, comparison table
